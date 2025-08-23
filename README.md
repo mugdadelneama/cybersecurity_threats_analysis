@@ -1,4 +1,4 @@
-# Analyzing Global Cybersecurity Threats from 2013 - 2025   📌 [View Project Repository](https://github.com/mugdadelneama/cybersecurity_threats_analysis)
+## Analyzing Global Cybersecurity Threats from 2013 - 2025   📌 [View Project Repository](https://github.com/mugdadelneama/cybersecurity_threats_analysis)
 
 ## 🎯 Project Overview
 Comprehensive cybersecurity risk assessment analyzing global threat data to identify critical vulnerabilities affecting countries’ financial sector and develop data driven mitigation strategies.
@@ -11,18 +11,19 @@ Comprehensive cybersecurity risk assessment analyzing global threat data to iden
 - **Power BI:** Interactive dashboards, DAX calculations, real-time threat visualization
 - **Data Processing:** Cleaned and analyzed 10,000+ cybersecurity incident records using SQL CTEs
 
-### Cybersecurity Domain Expertise
-- Vulnerability assessment and risk quantification
-- Financial impact analysis of security breaches
-- Defense mechanism effectiveness evaluation
-- Regulatory compliance considerations for UAE financial sector
+### Cybersecurity Threat Intelligence
+- Threat vector analysis and attack pattern identification
+- Financial impact assessment of cybersecurity incidents
+- Vulnerability exploitation trends analysis
+- Threat actor behavior and attack source mapping
+
 
 ## 🏆 Key Achievements
 
-### Financial Impact Analysis
-- Identified top 3 critical threat vectors targeting regional finance sector
-- Quantified financial damage patterns across different attack types
-- Analyzed threat actor methodologies and success rates 
+### Threat Analysis Results 
+- Top Security Gaps: Identified DDoS attacks as highest financial threat ($27.6M), followed by Malware ($23.9M) and Man-in-the-Middle attacks ($23.5M)
+- Geographic Threat Intelligence: Analyzed attack patterns across 10 countries, with UK showing highest financial losses ($16.5M) and China leading in attack frequency (299 incidents in 2021)
+- Vulnerability Impact Assessment: Quantified that weak passwords and unpatched software account for 60% of banking sector incidents, with average resolution times of 20+ hours
 
 ### Strategic Recommendations
 - Identified top 3 critical security gaps affecting regional finance sector
